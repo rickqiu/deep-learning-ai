@@ -1,2 +1,6 @@
 .ipynb_*
 __pycache__
+ResNet50.h5
+yolo.h5
+imagenet-vgg-verydeep-19.mat
+glove.6B.50d.txt
