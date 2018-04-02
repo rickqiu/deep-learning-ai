@@ -1,1 +1,1 @@
-# deep-learning-ai
+# Deep Learning Specialization Course Assignments
